@@ -3,7 +3,7 @@
 
 ### About me
 
-I'm a {backend, CV } developer.
+I'm a {Computer Vision and BackEnd } Developer!<br/> 
 
 ## Follow me
 
