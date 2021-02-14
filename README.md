@@ -19,3 +19,11 @@ I'm a {backend, CV } developer.
 - 🤔 I’m looking for help with Dev Python
 - 💬 Ask me about 42
 
+
+## My GitHub stats
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreemidio&langs_count=9&layout=compact&theme=dracula&hide=java,scss,gdscript" />
+</a>
+<a>
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreemidio&count_private=true&show_icons=true&theme=dracula" />
+</a>
