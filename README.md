@@ -5,6 +5,8 @@
 
 I'm a {Computer Vision and BackEnd } Developer!<br/> 
 
+**_Transforming knowledge in solutions to the world!_**
+
 ## Follow me
 
 📩 **My Gmail**: andresjc2008@gmail.com<br/>
