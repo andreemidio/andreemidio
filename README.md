@@ -25,6 +25,7 @@ I'm a {Computer Vision and BackEnd } Developer!<br/>
 ### Github Stats
 
 <a href="#">
-  <img src="https://github-readme-stats.vercel.app/api?username=rg3915&show_icons=true&count_private=true&theme=merko" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg3915&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
+  <img src="https://github-readme-stats.vercel.app/api?username=andreemidio&show_icons=true&count_private=true&theme=merko" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreemidio&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
 </a>
+
