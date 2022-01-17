@@ -15,9 +15,9 @@ I'm a {Computer Vision and BackEnd } Developer!<br/>
 🤖 **Github** [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/andreemidio)](https://github.com/andreemidio)<br/>
 
 
-- 🔭 I’m currently working on Engineering
-- 🌱 I’m currently learning Python, C++ and CV
-- 👯 I’m looking to collaborate on OpenCVismo on Telegram
+- 🔭 I’m currently working on Python, C++ and CV
+- 🌱 I’m currently learning Go Lang
+- 👯 I’m looking to collaborate on [OpenCVismo](https://t.me/opencvBrasil) on Telegram
 - 🤔 I’m looking for help with Dev Python
 - 💬 Ask me about 42
 
