@@ -22,10 +22,9 @@ I'm a {Computer Vision and BackEnd } Developer!<br/>
 - 💬 Ask me about 42
 
 
-## My GitHub stats
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreemidio&langs_count=9&layout=compact&theme=dracula&hide=java,scss,gdscript" />
-</a>
-<a>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=andreemidio&count_private=true&show_icons=true&theme=dracula" />
+### Github Stats
+
+<a href="#">
+  <img src="https://github-readme-stats.vercel.app/api?username=rg3915&show_icons=true&count_private=true&theme=merko" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rg3915&layout=compact&theme=merko&hide=css,html,jupyter%20notebook" height = "165">
 </a>
