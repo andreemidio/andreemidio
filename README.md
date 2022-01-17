@@ -21,6 +21,7 @@ I'm a {Computer Vision and BackEnd } Developer!<br/>
 - 🤔 I’m looking for help with Dev Python
 - 💬 Ask me about 42
 
+<img align="right" src="images/fcf7fd0c619bb87706533079240915f3.gif" width="400px">
 
 ### Stacks
 
