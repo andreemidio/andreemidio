@@ -56,7 +56,7 @@ I'm a {Computer Vision and BackEnd } Developer!<br/>
  <img alt="Heroku" src="https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white"/>
   <img alt="Google Cloud" src="https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white"/>
   
-    <img alt="OpenCV" src="https://camo.githubusercontent.com/477baf4e39fb402952d6b6ae0b1856f740c23c32a3b1faab7155a49c2c73c47b/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4f70656e43562d3237333338653f6c6f676f3d4f70656e4356266c6f676f436f6c6f723d7768697465"/>
+    <img alt="OpenCV" src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white"/>
 
 
 </p>
